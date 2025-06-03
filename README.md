@@ -11,5 +11,15 @@
 ### REPO IS FOR PORTFOLIO PURPOSES ONLY
 - CODE SNIPPETS ARE LIMITED
 - SCREENSHOTS ARE LIMITED
+- DATA PRIVACY IS IN EFFECT
 - ALL RIGHTS ARE WITH THE OWNER/PUBLISHER OF THE APPLICATION
 
+---
+
+![img1](https://github.com/polljii/onesuite/blob/main/onesuite1.png)
+
+![img2](https://github.com/polljii/onesuite/blob/main/onesuite2.png)
+
+![img3](https://github.com/polljii/onesuite/blob/main/onesuite3.png)
+
+![img4](https://github.com/polljii/onesuite/blob/main/onesuite4.png)
