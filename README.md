@@ -1,6 +1,6 @@
 # OneSuite
 ### Customized Enterprise Application for MSME Operations
-> A business application that provides centralized control over various operational modules including Door Access, Timekeeping, Payroll, Room Service, and Warehouse Management. Built for desktop, the UI is clean, color-coded, and admin-oriented, streamlining building operations effectively. Led the architecture, engineering, and operations of all public-facing and customer-facing products, ensuring reliability, scalability, and alignment with business goals.
+> A business application that provides centralized control over various operational modules including Employee, Door Access, Timekeeping, and Accommodation. Built for desktop, the UI is clean, color-coded, and admin-oriented, streamlining building operations effectively. Led the architecture, engineering, and operations of all public-facing and customer-facing products, ensuring reliability, scalability, and alignment with business goals.
 
 ![License](https://img.shields.io/badge/license-Apache--2.0-red.svg)
 ![.NET](https://img.shields.io/badge/.NET-8.0-8A2BE2)
