@@ -17,14 +17,22 @@
 
 ---
 
+<<<<<<< HEAD
 ![gif1](https://github.com/polljii/onesuite/blob/main/onesuitevid1.gif)
 
 ![gif2](https://github.com/polljii/onesuite/blob/main/onesuitevid2.gif)
 
 ![img1](https://github.com/polljii/onesuite/blob/main/onesuite1.png)
+=======
+![img1](https://www.polljii.com/assets/img/onesuitevid1.gif)
+>>>>>>> b8c2744286af6b61510a18e5d337c13b7948fdb5
 
-![img2](https://github.com/polljii/onesuite/blob/main/onesuite2.png)
+![img2](https://www.polljii.com/assets/img/onesuitevid2.gif)
 
-![img3](https://github.com/polljii/onesuite/blob/main/onesuite3.png)
+![img3](https://github.com/polljii/onesuite/blob/main/onesuite1.png)
 
-![img4](https://github.com/polljii/onesuite/blob/main/onesuite4.png)
+![img4](https://github.com/polljii/onesuite/blob/main/onesuite2.png)
+
+![img5](https://github.com/polljii/onesuite/blob/main/onesuite3.png)
+
+![img6](https://github.com/polljii/onesuite/blob/main/onesuite4.png)
