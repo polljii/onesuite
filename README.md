@@ -17,6 +17,10 @@
 
 ---
 
+![gif1](https://github.com/polljii/onesuite/blob/main/onesuitevid1.gif)
+
+![gif2](https://github.com/polljii/onesuite/blob/main/onesuitevid2.gif)
+
 ![img1](https://github.com/polljii/onesuite/blob/main/onesuite1.png)
 
 ![img2](https://github.com/polljii/onesuite/blob/main/onesuite2.png)
