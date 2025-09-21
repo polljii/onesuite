@@ -17,14 +17,14 @@
 
 ---
 
-![gif1](https://www.polljii.com/assets/img/onesuitevid1.gif)
+![img1](https://www.polljii.com/assets/img/onesuitevid1.gif)
 
-![gif1](https://www.polljii.com/assets/img/onesuitevid2.gif)
+![img2](https://www.polljii.com/assets/img/onesuitevid2.gif)
 
-![img1](https://github.com/polljii/onesuite/blob/main/onesuite1.png)
+![img3](https://github.com/polljii/onesuite/blob/main/onesuite1.png)
 
-![img2](https://github.com/polljii/onesuite/blob/main/onesuite2.png)
+![img4](https://github.com/polljii/onesuite/blob/main/onesuite2.png)
 
-![img3](https://github.com/polljii/onesuite/blob/main/onesuite3.png)
+![img5](https://github.com/polljii/onesuite/blob/main/onesuite3.png)
 
-![img4](https://github.com/polljii/onesuite/blob/main/onesuite4.png)
+![img6](https://github.com/polljii/onesuite/blob/main/onesuite4.png)
