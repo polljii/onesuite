@@ -1,6 +1,14 @@
 # OneSuite
-### Customized Enterprise Application for MSME Operations
-> A business application that provides centralized control over various operational modules including Employee, Door Access, Timekeeping, and Accommodation. Built for desktop, the UI is clean, color-coded, and admin-oriented, streamlining building operations effectively. Led the architecture, engineering, and operations of all public-facing and customer-facing products, ensuring reliability, scalability, and alignment with business goals.
+### Tailored Enterprise Application for MSME Operations
+> OneSuite is a comprehensive business platform designed to simplify and centralize operations for micro, small, and medium enterprises. From employee management to door access, timekeeping, and accommodation tracking, OneSuite brings everything together in one powerful desktop application.
+
+✨ <b>Key Highlights<br/>
+  •	🎨 <b>Intuitive UI</b> – clean, color-coded, and admin-friendly for effortless navigation<br/>
+  •	🔐 <b>Centralized Control</b> – manage multiple operational modules from a single hub<br/>
+  •	⚡ <b>Efficiency First</b> – streamline day-to-day building operations with ease<br/>
+  •	🏗️ <b>Enterprise-Grade Architecture</b> – engineered for reliability, scalability, and business growth<br/>
+
+As the architect and engineering lead, I oversaw the design, development, and operations of all public-facing and customer-facing products—ensuring that OneSuite not only runs smoothly but also aligns with long-term business goals.
 
 ![License](https://img.shields.io/badge/license-Apache--2.0-red.svg)
 ![.NET](https://img.shields.io/badge/.NET-8.0-8A2BE2)
@@ -9,11 +17,11 @@
 
 ---
 
-### REPO IS FOR PORTFOLIO PURPOSES ONLY
+### REPO IS FOR PORTFOLIO AND DISTRIBUTION PURPOSES ONLY
 - CODE SNIPPETS ARE LIMITED
 - SCREENSHOTS ARE LIMITED
 - DATA PRIVACY IS IN EFFECT
-- ALL RIGHTS ARE WITH THE OWNER/PUBLISHER OF THE APPLICATION
+- ALL RIGHTS ARE WITH LIGHTSAIL IT SOLUTIONS (www.lightsailits.com) AS THE PUBLISHER
 
 ---
 
