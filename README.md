@@ -2,7 +2,7 @@
 ### Tailored Enterprise Application for MSME Operations
 > OneSuite is a comprehensive business platform designed to simplify and centralize operations for micro, small, and medium enterprises. From employee management to door access, timekeeping, and accommodation tracking, OneSuite brings everything together in one powerful desktop application.
 
-✨ <b>Key Highlights<br/>
+✨ <b>Key Highlights<b/><br/>
   •	🎨 <b>Intuitive UI</b> – clean, color-coded, and admin-friendly for effortless navigation<br/>
   •	🔐 <b>Centralized Control</b> – manage multiple operational modules from a single hub<br/>
   •	⚡ <b>Efficiency First</b> – streamline day-to-day building operations with ease<br/>
